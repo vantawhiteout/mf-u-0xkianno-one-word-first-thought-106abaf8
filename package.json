@@ -1,0 +1,8 @@
+{
+  "name": "one-word-first-thought",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
